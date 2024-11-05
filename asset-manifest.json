@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "./static/css/main.bc846159.css",
+    "main.js": "./static/js/main.209b06cc.js",
+    "static/media/myPhoto1.png": "./static/media/myPhoto1.aaa8fd75238ee7fffbaa.png",
+    "static/media/CascadiaCode.ttf": "./static/media/CascadiaCode.77775c6c6ad298b9816f.ttf",
+    "static/media/fa-duotone-900.ttf": "./static/media/fa-duotone-900.3294754e7d17b7fc51dc.ttf",
+    "static/media/fa-thin-100.ttf": "./static/media/fa-thin-100.bb5b4e0fa7a63852942f.ttf",
+    "static/media/fa-light-300.ttf": "./static/media/fa-light-300.42781873fec059d77584.ttf",
+    "static/media/fa-regular-400.ttf": "./static/media/fa-regular-400.53c8ab3ca5481423199a.ttf",
+    "static/media/fa-solid-900.ttf": "./static/media/fa-solid-900.fbb2452ae151675f5b5d.ttf",
+    "static/media/fa-thin-100.woff": "./static/media/fa-thin-100.644082681504f767823b.woff",
+    "static/media/fa-duotone-900.woff": "./static/media/fa-duotone-900.19aba8671be5dd83b6f8.woff",
+    "static/media/fa-light-300.woff": "./static/media/fa-light-300.96e5b34ad60fd104c557.woff",
+    "static/media/fa-regular-400.woff": "./static/media/fa-regular-400.684ac7d6d733b26ff6f5.woff",
+    "static/media/fa-solid-900.woff": "./static/media/fa-solid-900.45a9966be637b27ed486.woff",
+    "static/media/fa-thin-100.woff2": "./static/media/fa-thin-100.6a433e902cebcd195378.woff2",
+    "static/media/fa-duotone-900.woff2": "./static/media/fa-duotone-900.ddc53bd25fe7d71099cd.woff2",
+    "static/media/fa-light-300.woff2": "./static/media/fa-light-300.ac24f183bee42296a0f2.woff2",
+    "static/media/fa-regular-400.woff2": "./static/media/fa-regular-400.58666c17184225836e95.woff2",
+    "static/media/fa-solid-900.woff2": "./static/media/fa-solid-900.a31475b53a7878f2e851.woff2",
+    "static/media/fa-brands-400.ttf": "./static/media/fa-brands-400.0a9f3c49eddb207d5168.ttf",
+    "static/media/fa-brands-400.woff": "./static/media/fa-brands-400.f2aff4832312245211a3.woff",
+    "static/media/fa-brands-400.woff2": "./static/media/fa-brands-400.825d61c5943537205497.woff2",
+    "static/media/Inder-Regular.ttf": "./static/media/Inder-Regular.da36fd5c68bf6db97eab.ttf",
+    "index.html": "./index.html",
+    "main.bc846159.css.map": "./static/css/main.bc846159.css.map",
+    "main.209b06cc.js.map": "./static/js/main.209b06cc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc846159.css",
+    "static/js/main.209b06cc.js"
+  ]
+}
